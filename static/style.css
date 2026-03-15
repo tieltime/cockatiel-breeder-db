@@ -1,0 +1,17 @@
+.dashboard {
+  background-color: #FFFFFF;
+  color: #333333;
+}
+
+.button {
+  background-color: #FF6B35;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button.secondary {
+  background-color: #004E89;
+}
